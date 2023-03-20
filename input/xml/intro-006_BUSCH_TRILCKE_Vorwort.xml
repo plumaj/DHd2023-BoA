@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xml:id="intro-006_BUSCH_TRILCKE_Vorwort">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vorwort</title>
+            <author>
+               <persName>
+                  <surname>Busch</surname>
+                  <forename>Anna</forename>
+               </persName>
+               <roleName>Stellvertretende Vorsitzende des Programmkomitees der DHd2020</roleName>
+               <email>anna.busch@uni-potsdam.de</email>
+               <idno type="ORCID">0000-0001-5584-4807</idno>
+            </author>
+            <author>
+               <persName>
+                  <surname>Trilcke</surname>
+                  <forename>Peer</forename>
+               </persName>
+               <roleName>Vorsitzender des Programmkomitees der DHd2020</roleName>
+               <email>trilcke@uni-potsdam.de</email>
+               <idno type="ORCID">0000-0002-1421-4320</idno>
+            </author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2023-03-04T</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <t:publisher xmlns:t="http://www.tei-c.org/ns/1.0">Patrick Sahle, im Auftrag des Verbands Digital Humanities im deutschsprachigen Raum e.V.</t:publisher>
+            <t:address xmlns:t="http://www.tei-c.org/ns/1.0">
+               <t:addrLine>Universität zu Köln</t:addrLine>
+               <t:addrLine>Cologne Center for eHumanities</t:addrLine>
+               <t:addrLine>Albertus-Magnus-Platz</t:addrLine>
+               <t:addrLine>50923 Köln</t:addrLine>
+            </t:address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Intro</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Vorwort</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term></term>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term></term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text type="intro" n="single">
+      <body>
+         <div>
+            <p>Dieses Jahr steht die 9. Jahrestagung des Verbands „Digital Humanities im deutschsprachigen Raum“ unter dem Motto „Open Humanities, Open Culture“ 
+               und wird gemeinsam von der Université du Luxembourg und der Universität Trier ausgerichtet. Verschiedene Tagungsbeiträge greifen zentrale Aspekte des Tagungsmottos der DHd2023 auf, 
+               denn Offenheit berührt alle Aspekte der wissenschaftlichen Praxis, sei es im Bereich der Daten (Open Data), der Software (Open Source), der Publikationen (Open Access), 
+               der Lehrmaterialien (Open Educational Resources), des kulturellen Gedächtnisses (Open Heritage) oder des Verhältnisses zur Gesellschaft (Public Humanities). 
+            </p>
+            <p>&#160;</p>
+            <p>Das Programmkomitee der DHd2023 stand vor der Herausforderung, aus 174 Einreichungen eine Auswahl zu treffen, was bei der hohen Qualität der Beiträge nicht einfach war. 
+               Ohne die Unterstützung von 165 Gutachter:innen, die insgesamt 643 Gutachten erstellt haben, wäre das nicht möglich gewesen. 
+               Mit dem nun vorliegenden Tagungsprogramm und diesem Book of Abstracts hoffen wir, Ihnen im Jahr 2023 wieder facettenreiche Einblicke in die aktuelle Forschung 
+               der digitalen Geisteswissenschaften bieten zu können.
+            </p>
+            <p>&#160;</p>
+            <p>Zur wissenschaftlichen Qualitätssicherung wurde der zweistufige Begutachtungsprozess beibehalten. Wie bereits im Jahr zuvor, wurde nach dem sogenannten Open-Peer-Review-Verfahren begutachtet,
+               bei dem die Namen der Gutachter:innen den Autor:innen offengelegt werden. Neben der fachlichen Zuordnung bei der Begutachtung achtete das Programmkomitee auch auf das akademische Alter der Einreichenden
+               und Begutachtenden. Die bei der letzten DHd-Konferenz eingeführte Rückmeldephase, in der die Gutachten von den Einreichenden kommentiert werden können, sodass die Begutachtenden im Anschluss
+               darauf reagieren können, wurde beibehalten. Dieser Schritt soll den wissenschaftlichen Diskurs im Begutachtungsprozess fördern, zum Austausch zwischen Beiträger:innen und Gutachter:innen beitragen
+               und das Verhältnis zwischen Gutachter:innen und Autor:innen damit weniger kompetitiv, stattdessen kommunikativer machen. Der Dialog zwischen Einreichenden und Begutachtenden trägt nicht nur dazu bei,
+               die inhaltliche Qualität der Beiträge zu erhöhen und den Begutachtungsprozess transparenter zu machen, sondern unterstützt auch das Programmkomitee in der endgültigen Entscheidungsfindung. 
+               In vielen Fällen ist es zu einem intensiven Austausch über die eingereichten Texte, die Gutachten und die Erwiderungen gekommen – ein beeindruckender Community-Diskurs! </p>
+            <p>&#160;</p>
+            <p>Die Arbeiten des Programmkomitees wurden zudem von der vom Verband eingesetzten Task Force „DHd Abstracts“ flankiert, die eine Dokumentation des Einreichungsprozesse der Konferenzbeiträge 
+               zu den DHd-Jahrestagungen vorgelegt hat, um den Beiträger:innen entsprechende Hilfestellung an die Hand zu geben.
+            </p>
+            <p>&#160;</p>
+            <p>Wir danken allen Autor:innen, die Beiträge für die DHd2023 eingereicht haben. Sie alle ermöglichen es uns, bei der Jahrestagung gemeinsam die Vielfalt und Qualität der Forschung 
+               in den digitalen Geisteswissenschaften aufzuzeigen. Dank gebührt natürlich auch den unermüdlichen Gutachter:innen. 
+               Auch wenn das Programmkomitee der DHd2023 schlussendlich das letzte Wort bei der Entscheidung über die Annahme und Ablehnung von Beiträgen hat, braucht es Sie alle als wichtigen Bestandteil 
+               der wissenschaftlichen Gemeinschaft, um die Jahrestagung in dieser Form erst möglich zu machen. 
+               Die Gutachten – sowohl in ihren ausformulierten Textteilen als auch in ihrer Punktevergabe – sind essentiell für die Programmerstellung. Die Arbeit der Gutachter:innen stellt die wissenschaftliche Qualität
+               der eingereichten Beiträge sicher und erweist sich damit als zentraler Aspekt des Konferenzerfolgs.
+            </p>
+            <p>&#160;</p>
+            <p>Zu den Mitgliedern des Programmkomitees zählen diesmal Anne Baillot, Noah Bubenhofer, Estelle Bunout (Koordination Luxemburg), Anna Busch (stellvertretender Vorsitz), Alexander Czmiel, 
+               Lisa Dieckmann, Evelyn Gius, Katrin Glinka, Andreas Henrich, Andreas Münzmay, Patrick Sahle, Martina Scholger, Silke Schwandt, Peer Trilcke (Vorsitz) und Joëlle Weis (Koordination Trier). 
+               Allen Kolleg:innen danken wir sehr herzlich für ihr Engagement. Unser persönlicher Dank gilt den lokalen Organisator:innen in Luxemburg und Trier: 
+               Sie haben die Arbeit des Programmkomitees entscheidend unterstützt.
+            </p>
+            <p>&#160;</p>
+            <p>Wir freuen uns auf eine bereichernde und „offene“ Konferenz. 
+            </p>
+            <p>&#160;</p>
+            <dateline>Potsdam, im März 2023</dateline><lb/>
+            <signed>Anna Busch und Peer Trilcke<lb/>für das Programmkomitee der DHd2023</signed>
+         </div>
+      </body>
+   </text>
+</TEI>
